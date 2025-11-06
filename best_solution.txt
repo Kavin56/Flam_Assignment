@@ -1,0 +1,24 @@
+
+================================================================================
+BEST SOLUTION FOUND
+================================================================================
+Timestamp: 2025-11-06T12:26:24.623605
+Method: residuals_uv_space_differential_evolution
+
+Parameters:
+  theta = 29.9999735077 degrees (0.5235983132 radians)
+  M     = 0.0299999938
+  X     = 54.9999977449
+
+Evaluation Metrics:
+  L1 Distance (mean): 0.0258190805
+  Residual Cost:     1.9039357764e-08
+
+LaTeX Submission String:
+\left(t*\cos(0.5235983132)-e^{0.0299999938\left|t\right|}\cdot\sin(0.3t)\sin(0.5235983132)+54.9999977449,42+t*\sin(0.5235983132)+e^{0.0299999938\left|t\right|}\cdot\sin(0.3t)\cos(0.5235983132)\right)
+
+For Desmos Calculator:
+Copy the LaTeX string above and paste it into:
+https://www.desmos.com/calculator/rfj91yrxob
+
+================================================================================

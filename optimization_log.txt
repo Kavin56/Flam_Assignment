@@ -1,0 +1,10 @@
+2025-11-06T12:26:14.417777: residuals_uv_space_least_squares_lm_linear_init0
+2025-11-06T12:26:14.430777: residuals_uv_space_least_squares_lm_linear_init1
+2025-11-06T12:26:14.442782: residuals_uv_space_least_squares_lm_linear_init2
+2025-11-06T12:26:14.458796: residuals_uv_space_least_squares_lm_linear_init3
+2025-11-06T12:26:14.470800: residuals_uv_space_least_squares_lm_linear_init4
+2025-11-06T12:26:14.525171: residuals_uv_space_least_squares_lm_linear_init8
+2025-11-06T12:26:14.594769: residuals_uv_space_least_squares_trf_linear_init4
+2025-11-06T12:26:21.193262: residuals_direct_xy_least_squares_dogbox_huber_init2
+2025-11-06T12:26:21.399867: residuals_direct_xy_least_squares_dogbox_soft_l1_init1
+2025-11-06T12:26:24.625952: residuals_uv_space_differential_evolution
