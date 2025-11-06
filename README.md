@@ -203,6 +203,9 @@ The script automatically saves/prints the best solution; you can stop at any tim
 
 <img width="1685" height="200" alt="image" src="https://github.com/user-attachments/assets/a1124bd9-b8c6-42e8-bfbc-bc8337c87431" />
 
+<img width="1919" height="233" alt="image" src="https://github.com/user-attachments/assets/e37281d6-db8e-4311-b10e-f82be3f24576" />
+
+
 
 ### 8.2 Transformed (u,v) vs model and XY vs fitted curve
 
@@ -215,5 +218,6 @@ The script automatically saves/prints the best solution; you can stop at any tim
 - Random seeds are fixed where applicable
 - Parameter bounds strictly enforced
 - Notebook prints a LaTeX string directly usable in Desmos
+
 
 
