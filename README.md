@@ -197,15 +197,16 @@ The script automatically saves/prints the best solution; you can stop at any tim
 
 ---
 
-## 9) Screenshots (leave space to insert)
+## 9) Results
 
-### 8.1 Result screenshot (printed values & LaTeX)
+### 8.1 Latex Equation
 
-<paste or drag your result screenshot here>
+<img width="1685" height="200" alt="image" src="https://github.com/user-attachments/assets/a1124bd9-b8c6-42e8-bfbc-bc8337c87431" />
 
-### 8.2 Plot screenshot – transformed (u,v) vs model and XY vs fitted curve
 
-<paste or drag your plot screenshot(s) here>
+### 8.2 Transformed (u,v) vs model and XY vs fitted curve
+
+<img width="1189" height="389" alt="output" src="https://github.com/user-attachments/assets/a288333d-9be5-4cd3-920d-01ff4ca485ab" />
 
 ---
 
@@ -214,4 +215,5 @@ The script automatically saves/prints the best solution; you can stop at any tim
 - Random seeds are fixed where applicable
 - Parameter bounds strictly enforced
 - Notebook prints a LaTeX string directly usable in Desmos
+
 
